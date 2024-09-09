@@ -59,7 +59,7 @@ Act as a prompt engineer. Review the following prompt for me. Optimize it to mak
 [GodMode](https://github.com/smol-ai/GodMode) is a dedicated chat browser that you can configure for full GPT webapps.
 
 ```
-Prompt 0_Introduce_GodMode: 
+Prompt Introduce_GodMode: 
 I am researching Rayleigh-Taylor Instabilities. Summarize the document located at this URL {https://d.lib.msu.edu/etd/26873} and create an outline of the 10 most important concepts presented. Include the author of the paper and the date that it was published.
 ```
 ### 8: Using a GPT allows for the rapid summarization or research of vast amounts of information. It can process and distill complex texts into concise summaries, making it easier to grasp the key points quickly. Additionally, it can generate detailed responses based on extensive datasets, offering valuable insights and comprehensive overviews on a wide range of topics.
