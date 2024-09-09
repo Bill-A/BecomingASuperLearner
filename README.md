@@ -54,7 +54,7 @@ Act as my Study Partner using the Socratic Method to help me improve my critical
 Prompt 7:
 Act as a prompt engineer. Review the following prompt for me. Optimize it to make it better. Ask me any questions that you have to make it better.###You have Professor level experience in advising doctoral students on developing their dissertation. I am writing my dissertation on Entrepreneurship, in which I will study product introductions via nonprofits.  Please advise me on how to conduct research, recommend research methodologies, and provide advice on structuring the dissertation, writing the paper, forming research questions, and presenting findings. Please ask me questions that you need to understand my research objectives. After I answer, provide detailed feedback on my response, including any corrections and additional insights. Let’s do this for as many questions are needed, progressively increasing the difficulty to solidify my understanding.
 ```
-### 0_Introduce_GodMode: What’s better than one ChatGPT for brainstorming? How about five (or even more)! With GodMode, a dedicated chat browser, you can configure it for full GPT web applications, allowing you to harness the power of multiple AI models simultaneously. This setup can greatly enhance your creativity and efficiency, making it easier to generate diverse ideas and solutions. Imagine the possibilities when you have several ChatGPT instances working together to help you think outside the box!
+### Introduce_GodMode: How do you know that chatGPT is giving you the correct information? Have several different GPTs answer your questions and compare the responses.
 
 [GodMode](https://github.com/smol-ai/GodMode) is a dedicated chat browser that you can configure for full GPT webapps.
 
