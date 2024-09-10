@@ -103,8 +103,7 @@ Prompt 10:
 You are a Computer Science Professor with expertise in teaching advanced Machine Learning. I am currently enrolled in a graduate-level "Machine Learning" course known for its challenging nature. From your extensive experience, could you please identify ten common challenges students typically face in this course? For each challenge, could you give me some detailed strategies to overcome these difficulties? Include examples or anecdotes to illustrate these challenges and solutions.
 ```
 # TODO: Optimized these 5 prompts
-## Send me your improvents to these 5 and I will post your contributions.
-# PROFESSORS / FACULTY
+# PROFESSORS / FACULTY, Using Gen AI to Brainstorm AI adoption in the university
 
 ### 11, 12, 13: You can use chatGPT to brainstorm the adoption of Gen AI in your department's curriculum
 
