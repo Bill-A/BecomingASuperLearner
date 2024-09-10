@@ -135,7 +135,7 @@ Prompt 15:
 You are an expert in advising University Provosts. How can I emphasize the importance to my faculty of staying abreast of AI advancements to enhance their teaching methods and subject matter expertise?
 ```
 
-# 6 Types of Prompt Engineering 
+# Prompt Engineering 101
 ## Just Do It
 ```
 Just Do It: This prompt style is direct and to the point, providing a clear task without any additional context or instructions.
