@@ -173,10 +173,7 @@ Example Prompt: I want to learn Python programming.
 ```
 ## Act-Review-Optimize-Ask
 ```
-Just Do It: This prompt style is direct and to the point, providing a clear task without any additional context or instructions.
-
-
-Example Prompt: I want to learn Python programming.
+Act as a prompt engineer. Review the following prompt for me. Optimize it to make it better. Ask me any questions that you have to make it better.###I want to learn Python programming.
 ```
 
 
