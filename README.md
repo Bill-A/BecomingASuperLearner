@@ -3,9 +3,10 @@ This workbook is a companion to the “Becoming a Super Learner: AI in Education
 
 ## UNDERGRADUATES, A Step-by-Step Guide for using Gen AI to Learn Anything
 The first steps in successful engagement with a GPT is to have it take on the persona of a prompt engineer. This is a strategic approach to develop or refine prompts and provides users with a valuable learning experience, creative inspiration, and practical insights into the art of crafting effective prompts. This approach combines the AI's capabilities with your knowledge, offering a unique and engaging way to explore prompt engineering techniques.
-### To maximize the effectiveness of a GPT, it’s crucial to ask questions in a clear and precise manner. Crafting well-defined prompts can significantly enhance the quality of the responses you receive. Additionally, you can use the GPT itself to help refine your prompts for better results.
 
-Act-Review-Optimize-Ask is a prompt technique to use Gen AI to create awesome prompts.
+To maximize the effectiveness of a GPT, it’s crucial to ask questions in a clear and precise manner. Crafting well-defined prompts can significantly enhance the quality of the responses you receive. Additionally, you can use the GPT itself to help refine your prompts for better results.
+
+### Act-Review-Optimize-Ask is a prompt technique to use Gen AI to create awesome prompts.
 
 Template Prompt: 
 Act as a prompt engineer. Review the following prompt for me. Optimize it to make it better. Ask me any questions that you have to make it better.###Your Prompt goes here
