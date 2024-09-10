@@ -3,17 +3,19 @@ This workbook is a companion to the “Becoming a Super Learner: AI in Education
 
 ## UNDERGRADUATES, A Step-by-Step Guide to Learn Anything
 The first steps in successful engagement with a GPT is to have it take on the persona of a prompt engineer. This is a strategic approach to develop or refine prompts and provides users with a valuable learning experience, creative inspiration, and practical insights into the art of crafting effective prompts. This approach combines the AI's capabilities with your knowledge, offering a unique and engaging way to explore prompt engineering techniques.
-### Act-Review-Optimize-Ask: To maximize the effectiveness of a GPT, it’s crucial to ask questions in a clear and precise manner. Crafting well-defined prompts can significantly enhance the quality of the responses you receive. Additionally, you can use the GPT itself to help refine your prompts for better results.
-```
-Act-Review-Optimize-Ask (AROA) is a prompt technique to use Gen AI to create awesome prompts.
+### To maximize the effectiveness of a GPT, it’s crucial to ask questions in a clear and precise manner. Crafting well-defined prompts can significantly enhance the quality of the responses you receive. Additionally, you can use the GPT itself to help refine your prompts for better results.
+
+Act-Review-Optimize-Ask is a prompt technique to use Gen AI to create awesome prompts.
 
 Template Prompt: 
-Act as a prompt engineer. Review the following prompt for me. Optimize it to make it better. Ask me any questions that you have to make it better.###{Your Prompt goes here}
+Act as a prompt engineer. Review the following prompt for me. Optimize it to make it better. Ask me any questions that you have to make it better.###Your Prompt goes here
 
-Type this prompt: 
+This is how you would normally write a prompt: 
+```
 I want to increase my opportunities for success as a college student. Could you tell me how Gen AI can help me with that goal?
-
-Compare the response to this prompt: 
+```
+Instead write the prompt like this: 
+```
 Act as a prompt engineer. Review the following prompt for me. Optimize it to make it better. Ask me any questions that you have to make it better.###I want to increase my opportunities for success as a college student. Could you tell me how Gen AI can help me with that goal?
 ```
 ### 1: Having a mentor can significantly enhance personal and professional growth by providing guidance, feedback, and support. ChatGPT, with its vast database of knowledge and ability to simulate human-like conversation, can serve as a valuable mentor by offering answers, advice, and resources tailored to your individual needs. Here’s how you can leverage ChatGPT to achieve your mentoring goals and overcome challenges.
