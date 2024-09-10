@@ -58,7 +58,7 @@ Act as a prompt engineer. Review the following prompt for me. Optimize it to mak
 ```
 ### How do you know that chatGPT is giving you the correct information? Consider having several different GPTs answer your questions and compare the responses.
 
-#### Introduce_GodMode: 
+#### Introducing GodMode... 
 
 [GodMode](https://github.com/smol-ai/GodMode) is a dedicated chat browser that you can configure for full GPT webapps.
 
