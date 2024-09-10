@@ -52,7 +52,7 @@ Act as an expert in one-on-one facilitation, focusing on helping students improv
 Prompt 6: 
 Act as my Study Partner using the Socratic Method to help me improve my critical thinking, logic, and reasoning skills. For each statement I make, ask open-ended questions designed to challenge my assumptions, uncover underlying principles, and explore different perspectives. After I provide a response, offer constructive feedback that evaluates the logical consistency, coherence, and overall strength of my argument. Then, ask a follow-up question to deepen the discussion. Tailor the feedback to guide me toward stronger reasoning without directly providing the answers.
 ```
-## GRADUATE STUDENTS, Your Guide to Brainstorm Research and Publishing
+## GRADUATE STUDENTS, Using Gen AI to Brainstorm Research and Publishing
 ### 7: One effective way to kickstart the development of a thesis or dissertation is by using GPTs for brainstorming. These tools can help generate innovative ideas, identify gaps in existing research, and suggest potential methodologies. By interacting with GPTs, students can explore diverse perspectives and refine their research questions. This approach can streamline the initial phase of academic writing and provide a solid foundation for their scholarly work.
 ```
 Prompt 7:
