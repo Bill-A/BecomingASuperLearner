@@ -164,14 +164,14 @@ Just Do It: This prompt style is direct and to the point, providing a clear task
 
 Example Prompt: I want to learn Python programming.
 ```
-## Tree-of-Thought (ToT)t
+## Tree-of-Thought (ToT)
 ```
 Just Do It: This prompt style is direct and to the point, providing a clear task without any additional context or instructions.
 
 
 Example Prompt: I want to learn Python programming.
 ```
-## Act-Review-Optimize-Ask (AROA)
+## Act-Review-Optimize-Ask
 ```
 Just Do It: This prompt style is direct and to the point, providing a clear task without any additional context or instructions.
 
