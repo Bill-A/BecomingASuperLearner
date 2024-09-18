@@ -21,10 +21,10 @@ Act as a prompt engineer. Review the following prompt for me. Optimize it to mak
 This is the BEST way to write the prompt:
 ```
 Act as an expert prompt engineer. Review the following prompt for me. Optimize it to make it more effective, considering the following aspects:
-1. Clarity and specificity
-1. Engagement and creativity
-1. Proper context setting
-1. Appropriate length and structure
+ 1. Clarity and specificity
+ 2. Engagement and creativity
+ 3. Proper context setting
+ 4. Appropriate length and structure
 Please provide a breakdown of your suggested changes and explain the rationale behind each optimization. If you need any additional information about the prompt's intended use, target audience, or specific goals, please ask.
 After your review, suggest 2-3 variations of the optimized prompt to showcase different approaches.
 If you have any questions that would help you better understand the prompt's purpose or constraints, please ask them before proceeding with your analysis and optimization.###I want to increase my opportunities for success as a college student. Could you tell me how Gen AI can help me with that goal?
