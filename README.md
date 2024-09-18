@@ -14,9 +14,20 @@ This is how you would normally write a prompt:
 ```
 I want to increase my opportunities for success as a college student. Could you tell me how Gen AI can help me with that goal?
 ```
-Instead write the prompt like this: 
+This is a better way to write the prompt: 
 ```
 Act as a prompt engineer. Review the following prompt for me. Optimize it to make it better. Ask me any questions that you have to make it better.###I want to increase my opportunities for success as a college student. Could you tell me how Gen AI can help me with that goal?
+```
+This is the BEST way to write the prompt:
+```
+Act as an expert prompt engineer. Review the following prompt for me. Optimize it to make it more effective, considering the following aspects:
+Clarity and specificity
+Engagement and creativity
+Proper context setting
+Appropriate length and structure
+Please provide a breakdown of your suggested changes and explain the rationale behind each optimization. If you need any additional information about the prompt's intended use, target audience, or specific goals, please ask.
+After your review, suggest 2-3 variations of the optimized prompt to showcase different approaches.
+If you have any questions that would help you better understand the prompt's purpose or constraints, please ask them before proceeding with your analysis and optimization.###I want to increase my opportunities for success as a college student. Could you tell me how Gen AI can help me with that goal?
 ```
 ## UNDERGRADUATES, Using Gen AI to Learn Anything
 
