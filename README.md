@@ -149,8 +149,9 @@ You are an expert in advising University Provosts. How can I emphasize the impor
 # Prompt Engineering 101
 ## Just Do It
 ```
-Just Do It: This prompt style is direct and to the point, providing a clear task without any additional context or instructions.
+This prompt style is direct and to the point, providing a clear task without any additional context or instructions.
 
+Also called a zero-shot prompt.
 
 Example Prompt: I want to learn Python programming.
 ```
